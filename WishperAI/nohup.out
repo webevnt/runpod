@@ -1,0 +1,345 @@
+INFO:     Started server process [68324]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8081 (Press CTRL+C to quit)
+INFO:     103.176.187.201:33769 - "GET /docs HTTP/1.1" 200 OK
+INFO:     103.176.187.201:33769 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     223.228.201.98:22219 - "GET /docs HTTP/1.1" 200 OK
+INFO:     223.228.201.98:22219 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     34.74.61.38:49716 - "GET /aab9 HTTP/1.1" 404 Not Found
+INFO:     34.74.61.38:49728 - "GET /aaa9 HTTP/1.1" 404 Not Found
+INFO:     34.74.61.38:49702 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     205.210.31.75:63918 - "GET / HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     90.151.171.108:64321 - "GET /?Z75922858801Q1 HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     165.232.84.84:43158 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     172.104.11.46:20076 - "GET / HTTP/1.1" 200 OK
+INFO:     185.239.69.50:41718 - "GET / HTTP/1.0" 200 OK
+INFO:     185.239.69.50:41822 - "GET / HTTP/1.1" 200 OK
+INFO:     185.239.69.50:41970 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     95.214.55.244:59048 - "GET / HTTP/1.1" 200 OK
+INFO:     109.205.213.38:54312 - "POST /HNAP1/ HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     205.210.31.244:58708 - "GET / HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.145.59:34578 - "GET / HTTP/1.1" 200 OK
+INFO:     167.94.145.59:40336 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.145.59:40654 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     184.105.247.228:57433 - "GET / HTTP/1.1" 200 OK
+INFO:     184.105.247.224:60253 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     184.105.247.212:33251 - "GET /?format=json HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     192.241.230.20:43772 - "GET / HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     209.97.158.144:44216 - "GET / HTTP/1.1" 200 OK
+INFO:     109.205.213.109:52422 - "POST /HNAP1/ HTTP/1.0" 404 Not Found
+INFO:     205.210.31.225:55033 - "GET / HTTP/1.0" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     90.151.171.108:10171 - "GET /ip.php?Z75922858801Q1 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     146.190.116.204:34446 - "GET / HTTP/1.0" 200 OK
+INFO:     146.190.116.204:34462 - "GET /nice%20ports%2C/Trinity.txt.bak HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     146.190.116.204:34538 - "OPTIONS / HTTP/1.0" 405 Method Not Allowed
+INFO:     146.190.116.204:34550 - "OPTIONS / HTTP/1.0" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     103.176.187.201:40527 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     172.105.128.12:2900 - "GET / HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     198.235.24.49:53832 - "GET / HTTP/1.0" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     90.151.171.108:40147 - "GET /?Z75922858801Q1 HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     95.214.55.244:47446 - "GET / HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     80.82.77.33:46334 - "GET / HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     143.198.41.108:58430 - "GET / HTTP/1.1" 200 OK
+INFO:     205.210.31.92:63510 - "GET / HTTP/1.1" 200 OK
+INFO:     103.203.58.3:59614 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     184.105.139.106:34161 - "GET / HTTP/1.1" 200 OK
+INFO:     184.105.139.94:61243 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     184.105.139.70:63549 - "GET /?format=json HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.215:60604 - "GET / HTTP/1.1" 200 OK
+INFO:     162.142.125.215:35514 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.215:53550 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     205.210.31.208:58112 - "GET / HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     146.190.78.223:57426 - "GET / HTTP/1.0" 200 OK
+INFO:     146.190.78.223:57430 - "GET /nice%20ports%2C/Trinity.txt.bak HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     146.190.78.223:57496 - "OPTIONS / HTTP/1.0" 405 Method Not Allowed
+INFO:     146.190.78.223:57498 - "OPTIONS / HTTP/1.0" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     64.227.146.243:47072 - "GET /aaa9 HTTP/1.1" 404 Not Found
+INFO:     64.227.146.243:47086 - "GET /aab8 HTTP/1.1" 404 Not Found
+INFO:     64.227.146.243:47096 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     5.188.210.227:61564 - "GET /echo.php HTTP/1.1" 404 Not Found
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     95.214.55.244:47122 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.57:53476 - "GET / HTTP/1.1" 200 OK
+INFO:     167.94.146.57:58702 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.57:58992 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     198.235.24.181:64172 - "GET / HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     103.176.187.201:28383 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     159.65.13.188:37302 - "GET / HTTP/1.1" 200 OK
+INFO:     159.65.13.188:37302 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     87.236.176.107:56201 - "GET / HTTP/1.1" 200 OK
+INFO:     23.251.102.74:53270 - "GET / HTTP/1.1" 200 OK
+INFO:     205.210.31.101:54009 - "GET / HTTP/1.0" 200 OK
+INFO:     49.36.139.208:62827 - "GET /docs HTTP/1.1" 200 OK
+INFO:     49.36.139.208:62827 - "GET /openapi.json HTTP/1.1" 200 OK
+No GPU/TPU found, falling back to CPU. (Set TF_CPP_MIN_LOG_LEVEL=0 and rerun for more info.)
+==========---------- {'file': <starlette.datastructures.UploadFile object at 0x7f8a34cda440>, 'task': 'transcribe', 'return_timestamps': False}
+Malformed soundfile --=--==----==------------===========
+INFO:     49.36.139.208:62829 - "POST /api/whisper-jax/upload HTTP/1.1" 400 Bad Request
+INFO:     Will watch for changes in these directories: ['/var/apps/VRPythonBE/vrpython/APIs/WishperAI']
+INFO:     Uvicorn running on http://0.0.0.0:8081 (Press CTRL+C to quit)
+INFO:     Started reloader process [108714] using WatchFiles
+INFO:     Started server process [108717]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'app/api/v1/whisper_route.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [108717]
+INFO:     Started server process [108818]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Will watch for changes in these directories: ['/var/apps/VRPythonBE/vrpython/APIs/WishperAI']
+INFO:     Uvicorn running on http://0.0.0.0:8081 (Press CTRL+C to quit)
+INFO:     Started reloader process [109035] using WatchFiles
+INFO:     Started server process [109038]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     103.176.187.201:42249 - "GET /docs HTTP/1.1" 200 OK
+INFO:     103.176.187.201:42249 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.35:57644 - "GET / HTTP/1.1" 200 OK
+INFO:     167.94.138.35:49166 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.35:39456 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     95.214.55.244:44240 - "GET / HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     205.210.31.94:55398 - "GET / HTTP/1.0" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     198.235.24.127:57814 - "GET / HTTP/1.1" 200 OK
+INFO:     64.62.197.26:18305 - "GET / HTTP/1.1" 200 OK
+INFO:     64.62.197.26:24137 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     64.62.197.26:11865 - "GET /?format=json HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+INFO:     199.19.74.21:6030 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     157.230.109.41:58362 - "GET / HTTP/1.1" 200 OK
+/var/apps/VRPythonBE/vrpython/APIs/venv/lib/python3.10/site-packages/whisper/timing.py:58: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def backtrace(trace: np.ndarray):
+==========---------- {'file': <starlette.datastructures.UploadFile object at 0x7f1d6829bb80>, 'task': 'transcribe', 'return_timestamps': False}
+Detected language: en
+What I'm trying to say is that the issue of certain etcetera. Oh you mean that communication announcement until like storm would be brought into the peel process? Right, the second empty appeal. I hope you understand there are issues of reputation and I have to deal with those in the peel process rather than the commercial issues around settlement. And then there's this deal with the information. I believe that the implication we can proceed with the defamation. Yeah, I'll investigate it to what we have as written evidence of what we do not have. Okay great.
+INFO:     103.176.187.201:27205 - "POST /api/whisper-jax/upload HTTP/1.1" 200 OK
+INFO:     174.138.187.154:51470 - "GET / HTTP/1.1" 200 OK
+INFO:     54.193.35.12:38106 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     45.55.0.6:38926 - "GET / HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.

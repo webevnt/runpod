@@ -1,0 +1,1 @@
+ERROR 2023-05-24 04:07:59,474 ERROR:name 'is_created' is not defined,TYPE:NameError,FILENAME:/var/apps/VRPythonBE/vrpython/APIs/WishperAI/app/api/v1/whisper.py,FunctionName:use_whisper_jax,LINENUM:53

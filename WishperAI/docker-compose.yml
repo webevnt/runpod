@@ -1,0 +1,14 @@
+version: "3.3"
+
+services:
+  project:
+    build: .
+    command: ./manage.sh
+    container_name: face-recognition-service
+    ports:
+      - 8081:8081
+    environment:
+      - ENV=test
+      - TEST_HOST=http://127.0.0.1:8081/
+
+  

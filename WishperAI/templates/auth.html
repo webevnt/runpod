@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% block title %}Face Recognition Admin{% endblock %}
+{% block head %}
+{{ super() }}
+{% endblock %}
+{% block content %}
+<div class="container">
+   <section class="Sign_in_sec">
+    <div class="sign_in_form">
+      <form method="POST">
+          <h1 class="sign_in_hing">Sign In</h1>
+        <input type="text" name="email" id="email" placeholder="Email" class="input_signin" required>
+        <div class="psswrd_div_sin">
+        <input type="password" id="password" placeholder="Password" class="input_signin" required>
+        <i class="toggle-password-sign far fa-eye-slash"></i>
+        </div>
+        </form>
+        <input type="submit" value="Login" class="login_btn_insignin">
+        <div class="text-center  error_msg_ele">
+          <div>
+            <br/>
+            <div class="alert alert-warning alert-dismissible fade show" role="alert">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-2" viewBox="0 0 16 16" role="img" aria-label="Warning:">
+                <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+              </svg>
+              <div class="error-msg">
+                Model has been trained successfully!
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+   </section>
+</div>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+
+<script type="text/javascript">
+
+$('.error_msg_ele').hide();
+
+  $('.login_btn_insignin').click(function(){
+      const authData = {
+        email:$('#email').val(),
+        password:$('#password').val()
+      }
+      const headers = {
+        'Content-Type': 'application/json',
+      }
+      $.ajax({
+        url: "/api/users/login",
+        method: 'POST',
+        contentType: "application/json",
+        dataType: "json",
+        data: JSON.stringify(authData),
+        success: function (res) {
+          console.log(res);
+          localStorage.clear();
+          localStorage.setItem("access_token",`Bearer ${res['access_token']}`);
+          window.location.replace('/dashboard');
+        },
+        error: function(error){
+          var errMessage = error.responseJSON.message;
+          $('.error-msg').html(`${errMessage} <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>`);
+          $('.error_msg_ele').show();
+      }
+      });
+
+  });
+</script>
+
+
+{% endblock %}

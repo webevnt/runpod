@@ -1,0 +1,4 @@
+ERROR 2023-05-28 13:20:33,857 ERROR:cannot unpack non-iterable NoneType object,TYPE:TypeError,FILENAME:/var/apps/VRPythonBE/vrpython/APIs/WishperAI/app/api/v1/whisper_route.py,FunctionName:use_whisper,LINENUM:53
+ERROR 2023-05-28 13:21:42,973 ERROR:cannot unpack non-iterable NoneType object,TYPE:TypeError,FILENAME:/var/apps/VRPythonBE/vrpython/APIs/WishperAI/app/api/v1/whisper_route.py,FunctionName:use_whisper,LINENUM:53
+ERROR 2023-05-28 13:23:33,819 ERROR:cannot unpack non-iterable NoneType object,TYPE:TypeError,FILENAME:/var/apps/VRPythonBE/vrpython/APIs/WishperAI/app/api/v1/whisper_route.py,FunctionName:use_whisper,LINENUM:53
+ERROR 2023-05-28 13:24:49,674 ERROR:cannot unpack non-iterable NoneType object,TYPE:TypeError,FILENAME:/var/apps/VRPythonBE/vrpython/APIs/WishperAI/app/api/v1/whisper_route.py,FunctionName:use_whisper,LINENUM:53

@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block title %}Face Recognition Admin{% endblock %}
+{% block head %}
+{{ super() }}
+
+{% endblock %}
+
+{% block content %}
+<div class="container">
+   <section class="vedio_section">
+    <div class="row vedio_row_prt">
+      <div class="col-md-12">
+        <div class="progress_for_tyming2">
+          <ol class="progress-bar2">
+            <li class="is-complete2">
+                <span class="progress_num">Add User</span>
+                <span class="progress_num">Upload Face</span>
+                <span class="progress_num">Further Train</span>
+                <span class="progress_num">Recognize Face</span>
+            </li> 
+          </ol>
+        </div>
+      </div>
+    </div>
+   </section>
+</div>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+{% endblock %}
+
+
+
